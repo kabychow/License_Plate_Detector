@@ -1,0 +1,5 @@
+/opt/clion-2018.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/khaibin/Desktop/deep_learning/license_plate_recognition
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found version "3.6.5") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug

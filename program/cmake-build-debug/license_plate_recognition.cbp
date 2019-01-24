@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="license_plate_recognition"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\;CMake Files\share\;CMake Files\share\dataset\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="license_plate_recognition">
+				<Option output="/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/license_plate_recognition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/python3.6m"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 license_plate_recognition"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="license_plate_recognition/fast">
+				<Option output="/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/license_plate_recognition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/python3.6m"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 license_plate_recognition/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/include/function.h">
+			<Option target="license_plate_recognition"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/include/lpd.h">
+			<Option target="license_plate_recognition"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/include/neural_network.h">
+			<Option target="license_plate_recognition"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/main.cpp">
+			<Option target="license_plate_recognition"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/nn_model.h5">
+			<Option virtualFolder="CMake Files\share\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/1.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/10.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/11.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/12.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/13.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/14.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/15.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/16.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/17.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/18.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/19.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/2.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/20.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/21.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/22.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/23.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/24.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/25.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/26.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/27.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/28.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/29.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/3.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/30.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/4.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/5.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/6.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/7.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/8.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+		<Unit filename="/home/khaibin/Desktop/deep_learning/license_plate_recognition/share/dataset/9.jpg">
+			<Option virtualFolder="CMake Files\share\dataset\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

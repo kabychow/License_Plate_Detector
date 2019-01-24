@@ -1,0 +1,3 @@
+/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/CMakeFiles/license_plate_recognition.dir
+/home/khaibin/Desktop/deep_learning/license_plate_recognition/cmake-build-debug/CMakeFiles/edit_cache.dir
